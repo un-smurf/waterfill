@@ -3,7 +3,7 @@ data:extend({
     type = "item",
     name = "waterfill",
     tooltip = "wftt",
-    icon = "__Waterfill__/water.png",
+    icon = "__Waterfill_v17__/water.png",
     icon_size = 128,
     subgroup = "terrain",
     order = "c[landfill]-a[dirt]",
@@ -31,7 +31,7 @@ data:extend({
    {
     type = "technology",
     name = "waterfill",
-    icon = "__Waterfill__/water.png",
+    icon = "__Waterfill_v17__/water.png",
 	prerequisites = {"landfill"},
     icon_size = 128,
     unit =
