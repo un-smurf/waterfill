@@ -1,8 +1,9 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.17.0
-Date: 3. 3. 2019
+Version: 0.18.0
   Changes:
-    - Updated for Factorio 0.17.
-    - Fixed Science packs.
+    - Updated for Factorio 0.18
 ---------------------------------------------------------------------------------------------------
-
+Version: 0.17.12
+  Changes:
+    - Updated for Factorio 0.17
+    - Fixed Science packs.
