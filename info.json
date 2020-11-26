@@ -1,10 +1,10 @@
 {
   "name": "Waterfill_v17",
-  "version": "0.18.0",
-  "factorio_version": "0.18",
+  "version": "1.1.0",
+  "factorio_version": "1.1",
   "title": "Waterfill",
   "author": "untraceablesmurf",
   "homepage": "",
   "description": "Placeable water. This mod allows the placement of water just like landfill.",
-  "dependencies": ["base >= 0.17.0"]
+  "dependencies": ["base >= 1.1.0"]
 }
