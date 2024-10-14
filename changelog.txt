@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+  Changes:
+    - Updated for Factorio 2.0 (complete rewrite)
+    - Fixed so it no longers kills the player or destroys buildings
+    - Added support for Space-Age DLC (restricted to Nauvis and Gleba only where water is actually available)
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
   Changes:
     - Updated for Factorio 1.1
@@ -11,3 +17,4 @@ Version: 0.17.12
   Changes:
     - Updated for Factorio 0.17
     - Fixed Science packs.
+    - Credit go to ceryss & Riley19280 for pre 0.17 version
