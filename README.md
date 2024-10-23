@@ -9,6 +9,9 @@ Research the tech to unlock.
 If used with Space-Age DLC then its only useable on Nauvis and Gleba where water is actually available.
 
 -----------
+Update 2.0.2
+- Fix Changelog and code formating
+-----------
 Update 2.0.1
 - Added support for Alien Biomes
 -----------
