@@ -9,6 +9,9 @@ Research the tech to unlock.
 If used with Space-Age DLC then its only useable on Nauvis and Gleba where water is actually available.
 
 -----------
+Update 2.0.1
+- Added support for Alien Biomes
+-----------
 Update 2.0.0
 - Updated for Factorio 2.0 (complete rewrite)
 - Fixed so it no longers kills the player or destroys buildings
