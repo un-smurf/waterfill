@@ -6,7 +6,7 @@ This mod allows the placement of water just like landfill.
 
 Research the tech to unlock.
 
-There are 2 mod settings to allow placement over tree stumps and disable collision with items
+There are 3 mod settings to allow placement over tree stumps, disable collision with items and allow on any planet (very cheaty)
 
 If used with Space-Age DLC then its only useable on Nauvis and Gleba where water is actually available.
 
