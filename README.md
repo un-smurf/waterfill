@@ -11,6 +11,9 @@ There are 2 mod settings to allow placement over tree stumps and disable collisi
 If used with Space-Age DLC then its only useable on Nauvis and Gleba where water is actually available.
 
 -----------
+Update 2.0.5
+- Added setting to allow on any planet (very cheaty) 
+-----------
 Update 2.0.4
 - Now placeable over atomic blasts 
 -----------

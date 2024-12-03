@@ -14,5 +14,13 @@ data:extend {
 		setting_type = "startup",
 		default_value = false,
 		order = "waterfill-01"
+	},
+	{
+		-- allow placing on any planet
+		type = "bool-setting",
+		name = "waterfill-02",
+		setting_type = "startup",
+		default_value = false,
+		order = "waterfill-02"
 	}
 }

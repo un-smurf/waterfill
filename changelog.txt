@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.5
+Date: 03. 12. 2024
+  Changes:
+    - Added setting to allow on any planet (very cheaty) but will allow you to use alien biome with some bits disabled
+---------------------------------------------------------------------------------------------------
 Version: 2.0.4
 Date: 18. 11. 2024
   Changes:
