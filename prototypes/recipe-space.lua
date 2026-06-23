@@ -4,7 +4,7 @@ data:extend({
     name = "waterfill",
     energy_required = 1,
     enabled = false,
-    category = "crafting-with-fluid",
+    categories = {"crafting-with-fluid"},
 	surface_conditions =
     {
       {

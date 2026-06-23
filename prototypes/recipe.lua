@@ -4,7 +4,7 @@ data:extend({
     name = "waterfill",
     energy_required = 1,
     enabled = false,
-    category = "crafting-with-fluid",
+    categories = {"crafting-with-fluid"},
     ingredients =
     {
       {type="fluid", name="water", amount=200}
