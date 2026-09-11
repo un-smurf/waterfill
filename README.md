@@ -11,6 +11,10 @@ There are 3 mod settings to allow placement over tree stumps, disable collision 
 If used with Space-Age DLC then its only useable on Nauvis and Gleba where water is actually available.
 
 -----------
+Update 2.1.2
+- Added Russian localization (ru) - Thanks to Lasciva_Engineer 
+- Changed how placement over trees works (setting removed as not needed now) - Thanks to ZarSasha
+-----------
 Update 2.1.1
 - Marked factorio+ mod as a conflict 
 -----------

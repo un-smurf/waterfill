@@ -1,6 +1,5 @@
 
 local waterfill_setting_value1 = settings.startup["waterfill-00"].value
-local waterfill_setting_value2 = settings.startup["waterfill-01"].value
 
 if waterfill_setting_value1 then
 	data.raw.tile.water.check_collision_with_entities = true
@@ -8,10 +7,7 @@ else
 	data.raw.tile.water.check_collision_with_entities = false
 end
 
-if waterfill_setting_value2 then
-	data.raw.tile.water.collision_mask = {layers={water_tile=true, player=true, resource=true }}
-end
-
+data.raw.tile.water.decorative_removal_probability = 1
 
 data:extend({
 {
